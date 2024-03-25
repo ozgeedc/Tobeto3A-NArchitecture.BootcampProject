@@ -12,7 +12,6 @@ public class Instructor : User
         Bootcamps = new HashSet<Bootcamp>();
     }
 
-
     public Instructor(
         Guid id,
         string userName,
